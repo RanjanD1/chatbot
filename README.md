@@ -71,7 +71,7 @@ Interact with the Chatbot:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/RanjanD!/chatbot.git
+git clone https://github.com/RanjanD1/chatbot.git
 cd chatbot
 >>>>>>>
 
